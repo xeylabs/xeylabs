@@ -7,18 +7,13 @@ When something sticks, it becomes a project you can read, clone, and break.
 
 - **[xeylabs.github.io](https://xeylabs.github.io/)** — the lab site
 - **[The Log](https://xeylabs.github.io/blog/)** — notes & post-mortems from inside the lab
-- **[House rules](https://xeylabs.github.io/rules.html)** — the six rules the lab runs on
+- **[Build Log](https://xeylabs.github.io/projects/log/)** — the project blog, one log per project
+- **[Legal](https://xeylabs.github.io/legal.html)** — who we are, licensing, contact
 - **Projects** — land here as experiments mature
 
-## House rules
+## Legal
 
-1. **Build in public.** Everything the lab makes gets logged.
-2. **Receipts, not roadmaps.** Status labels are the source of truth.
-3. **Privacy is the default.** No cookies, no tracking, no analytics.
-4. **Open code, honest status.** Published code is MIT licensed.
-5. **One experiment, one entry.** The Log is receipts, not filler.
-6. **Say it plain.** If a sentence needs a footnote to sound honest, it gets rewritten.
-
-Amendments happen in public — what changed and why goes in The Log.
+Who we are, what applies to this site, and how to reach us for anything formal:
+**[xeylabs.github.io/legal.html](https://xeylabs.github.io/legal.html)**.
 
 *If it can't be shared, it isn't done.*
